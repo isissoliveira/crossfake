@@ -1,0 +1,8 @@
+.box {
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+  }
+  /* .box .row {
+    border: 1px dotted #0313fc;
+  } */

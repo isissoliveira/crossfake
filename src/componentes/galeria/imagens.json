@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "titulo": "Dia de Snatch",
+        "url": "https://www.wane.com/wp-content/uploads/sites/21/2021/06/Lindsey-Motl.jpg",
+        "tags": [
+            "Treinos"
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Murphy pesadão",
+        "url": "https://thumbnails.crossfit.com/mainsite/w20230219/thumbnail/CrossFit_Marrickville_23-1.jpg",
+        "tags": [
+            "Murphy",
+            "Treinos"
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Wall Ball no padrão",
+        "url": "https://cdn.shopify.com/s/files/1/1099/4438/files/blog.png",
+        "tags": [
+            "Treinos"
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Só na sincronia",
+        "url": "https://blog.touchandgo.com.br/wp-content/uploads/2020/10/BC_IV-CrossFit-Games-2017-268.jpg",
+        "tags": [
+            "Murphy"
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Quebrando a paralela",
+        "url": "https://cdn.weasy.io/users/boxpt/img_0619.jpg",
+        "tags": [
+            "Treinos"
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Adoramos cupcake",
+        "url": "https://i.pinimg.com/originals/06/7b/04/067b04754a6d920d8e9a41d7904758bf.jpg",
+        "tags": [
+            "Festas"
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Aniversário do prodígio",
+        "url": "https://crossfitmorgantown.com/wp-content/uploads/2018/10/parties1.jpg",
+        "tags": [
+            "Festas"
+        ]
+    },
+    {
+        "id": 8,
+        "titulo": "Ginásio da AABB",
+        "url": "https://jequie.aabb.com.br/wp-content/uploads/sites/281/2019/01/IMG_20181209_121221490.jpg",
+        "tags": [
+            "Campeonatos"
+        ]
+    },
+    {
+        "id": 9,
+        "titulo": "Tudo pronto para próxima bateria",
+        "url": "https://jequie.aabb.com.br/wp-content/uploads/sites/281/2019/01/IMG_20181208_075427564.jpg",
+        "tags": [
+            "Campeonatos"
+        ]
+    },
+    {
+        "id": 10,
+        "titulo": "Snatches ao ar livre",
+        "url": "https://revistanews.com.br/wp-content/uploads/2017/12/Super-Games-3.jpg",
+        "tags": [
+            "Campeonatos"
+        ]
+    },
+    {
+        "id": 11,
+        "titulo": "Pushhhhhh",
+        "url": "https://api.army.mil/e2/c/images/2019/08/05/560938/original.jpg",
+        "tags": [
+            "Campeonatos"
+        ]
+    },
+    {
+        "id": 12,
+        "titulo": "Haja braço",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Nano_Action.JPG",
+        "tags": [
+            "Campeonatos"
+        ]
+    },
+    {
+        "id": 13,
+        "titulo": "Sincronia é tudo",
+        "url": "https://s.marketwatch.com/public/resources/images/MW-GI242_gym_bi_ZG_20180430121249.jpg",
+        "tags": [
+            "Festas"
+        ]
+    }
+]
